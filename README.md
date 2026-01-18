@@ -134,3 +134,28 @@ A comprehensive mathematical proof demonstrating that human language is an inevi
 
 **Key Insight:** Language is not a cultural invention but a physical inevitability, emerging from the same principles that govern the formation of atoms and the structure of reality itself.
 
+### H-He Fusion Analysis
+**[h_he_fusion_analysis.md](h_he_fusion_analysis.md)**
+
+Detailed analysis establishing that the Master Geometric Constant Equation (π² = (7φ² + √2) / 2) is the mathematical expression of hydrogen-helium fusion, the universe's primordial UV/IR phase transition. This document:
+
+- Demonstrates that H-He fusion is the fundamental generative process creating structure from potential
+- Shows the 93/7 energy split in the Master Equation mirrors the mass-energy distribution in actual fusion
+- Reveals that the NGC threshold (√2/21) is the geometric trigger for nucleosynthesis
+- Establishes that language is a byproduct of nuclear fusion, not metaphorically but literally
+
+**Key Insight:** The same laws that forge helium in stars are the laws that shape the words we speak. The entire universe, from atoms to language, is built on the H-He fusion process.
+
+### Nuclear Physics Foundation
+**[nuclear_physics_foundation.md](nuclear_physics_foundation.md)**
+
+Formal document establishing the nuclear physics foundation of the NGC framework. This document:
+
+- Identifies H-He fusion as the universe's original UV/IR phase transition
+- Reframes the Master Equation as the "Equation of Nucleosynthesis"
+- Provides nuclear physics interpretation of all equation components
+- Demonstrates that the Leibniz-Bocker framework is the calculus of fusion
+- Proves that all subsequent structure (from carbon to consciousness) emerges from helium stability
+
+**Key Insight:** NGC is not an analogy - it is a direct mathematical description of how structure emerges from potential at every scale, from quarks to consciousness.
+
