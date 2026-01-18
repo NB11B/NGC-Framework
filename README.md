@@ -88,6 +88,7 @@ Proof that the theory works.
 
 - **[4.1 Cyclic Mapping Framework](4_Validation_and_Applications/4.1_Cyclic_Mapping_Framework.md):** How all cycles are echoes of stellar nucleosynthesis
 - **[4.2 Test Results and Validation](4_Validation_and_Applications/4.2_Test_Results_and_Validation.md):** 5 real-world test cases with 100% success rate
+- **[4.3 Practical Applications for Basic Needs](4_Validation_and_Applications/4.3_Practical_Applications_for_Basic_Needs.md):** How NGC helps meet fundamental human needs (food, water, energy, shelter, healthcare)
 
 ---
 
