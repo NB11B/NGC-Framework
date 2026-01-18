@@ -30,7 +30,7 @@ This equation is not derived. It is the axiom from which all structure emerges.
 
 ## What Is NGC?
 
-The Nested Geometric Computation (NGC) Framework is a complete reimagining of computation from first principles:
+The Nested Geometric Computation (NGC) Framework is a complete theory of universal spin computation, grounded in the geometry of SU(2) spin space:
 
 - **Triaxial polar coordinate system** with three diagonally perpendicular planes
 - **Tetrahedral computational primitives** instead of bits
@@ -73,8 +73,9 @@ The physics and mathematics underlying NGC.
 
 - **[2.1 Nuclear Genesis](2_Foundational_Theory/2.1_Nuclear_Genesis.md):** How H-He fusion is the primordial UV/IR phase transition
 - **[2.2 The Master Equation](2_Foundational_Theory/2.2_The_Master_Equation.md):** The equation of structure formation
-- **[2.3 The Leibniz-Bocker Framework](2_Foundational_Theory/2.3_The_Leibniz_Bocker_Framework.md):** The operational calculus for geometric computation
-- **[2.4 From Planck to Language](2_Foundational_Theory/2.4_From_Planck_to_Language.md):** The complete 12-step causal chain from quantum foam to human language
+- **[2.3 Spin Interpretation](2_Foundational_Theory/2.3_Spin_Interpretation.md):** NGC as universal spin computation with Δ as fundamental spin asymmetry
+- **[2.4 The Leibniz-Bocker Framework](2_Foundational_Theory/2.4_The_Leibniz_Bocker_Framework.md):** The operational calculus for geometric computation
+- **[2.5 From Planck to Language](2_Foundational_Theory/2.5_From_Planck_to_Language.md):** The complete 12-step causal chain from quantum foam to human language
 
 ### 3. The NGC Framework
 
