@@ -59,6 +59,10 @@ NGC bypasses **10 fundamental limitations** of conventional AI:
 
 ## The Logical Flow
 
+This repository is the canonical source of truth for the NGC framework. For a guide to the entire 6-repository ecosystem, see:
+
+- **[0.0 The NGC Ecosystem: A Unified Framework](0_Ecosystem_Overview/0.0_Ecosystem_Overview.md)**
+
 This repository presents a complete case for NGC, structured as a logical progression from motivation through theory to validation:
 
 ### 1. The Case for NGC
