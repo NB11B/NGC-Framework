@@ -138,6 +138,16 @@ Pseudocode reference for the core NGC and PSMSL algorithms, providing a language
 
 These pseudocode documents show the logic without revealing production code, serving as both educational resources and copyright documentation.
 
+### 9. Experimental Validation
+
+The experimental protocols and analysis documents for validating the spin computation hypothesis. This section provides the roadmap for closing the remaining gaps in the NGC framework's scientific foundation through rigorous experimental testing:
+
+- **[9.1 Falsifiable Predictions](9_Experimental_Validation/9.1_Falsifiable_Predictions.md):** Five specific, testable predictions that distinguish spin computation from alternative explanations
+- **[9.2 Experimental Protocol](9_Experimental_Validation/9.2_Experimental_Protocol.md):** Complete experimental design for testing whether asymmetry is necessary for coherent phase transition detection
+- **[9.3 Complete Derivation (Working Document)](9_Experimental_Validation/9.3_Complete_Derivation_Working_Document.md):** Full working derivation of the Master Equation from SU(2) first principles
+
+**Status:** Gap #1 (First-Principles Derivation) closed, Gap #2 (Falsifiable Experiment) designed and ready to execute, Gap #3 (Quantum Connection) theoretically addressed.
+
 ---
 
 ## Key Results
