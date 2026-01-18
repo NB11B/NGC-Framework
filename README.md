@@ -112,6 +112,16 @@ The mandatory geometric substrate for all NGC computations.
 - **[6.2 Domain-Specific Trees](6_Barycentric_Scaffolding/6.2_Domain_Specific_Trees.md):** Complete examples for agriculture, healthcare, finance, energy, and materials science
 - **[6.3 Concept Mapping and Validation](6_Barycentric_Scaffolding/6.3_Concept_Mapping_and_Validation.md):** Algorithm for mapping concepts to barycentric coordinates and validation protocol
 
+### 7. Cross-Domain Demonstrations
+
+Complete worked examples showing the universal M2 engine applied to different domains.
+
+- **[7.1 Agriculture: Wheat Harvest Optimization](7_Cross_Domain_Demonstrations/7.1_Agriculture_Wheat_Harvest.md):** Predicting optimal harvest window 7-14 days in advance (4-6% profit increase)
+- **[7.2 Healthcare: Epidemic Prediction](7_Cross_Domain_Demonstrations/7.2_Healthcare_Epidemic_Prediction.md):** Early warning system for disease outbreaks (2-4 week lead time)
+- **[7.3 Finance: Flash Crash Prediction](7_Cross_Domain_Demonstrations/7.3_Finance_Flash_Crash_Prediction.md):** Market instability detection (5-15 minute lead time)
+- **[7.4 Cross-Domain Comparison](7_Cross_Domain_Demonstrations/7.4_Cross_Domain_Comparison.md):** Knowledge transfer through geometric analogy
+- **[7.5 Scaffolding Construction Test](7_Cross_Domain_Demonstrations/7.5_Scaffolding_Construction_Test.md):** Validation of the construction methodology on urban transportation
+
 ---
 
 ## Key Results
