@@ -5,59 +5,106 @@
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Copyright](https://img.shields.io/badge/Copyright-Nathanael%20J.%20Bocker%202026-red.svg)](https://github.com/NB11B/NGC-Framework)
 
-## Overview
+---
 
-The Nested Geometric Computation (NGC) framework is a fundamental reimagining of computation itself, where computation emerges from geometric relationships in real space rather than symbolic manipulation of binary code. This framework realizes Gottfried Wilhelm Leibniz's 350-year-old vision of a *characteristica universalis*, a system where logic and reasoning emerge from pure geometry.
+## The Core Claim
 
-## Key Innovation
+Computation does not reside in the manipulation of symbols. Computation resides in the **geometric relationships, symmetries, and transformations** of structures in real space.
 
-NGC operates on a revolutionary principle: **form IS computation**. Instead of manipulating strings of 1s and 0s, NGC uses a triaxial polar coordinate system and tetrahedral computational primitives where the geometry itself is the logic. This approach bypasses ten major limitations of conventional AI, including the O(n²) complexity bottleneck, hardware dependency, energy consumption crisis, and semantic poisoning vulnerability.
-
-## What's Included
-
-This repository contains:
-
-1. **[NGC_Specification.md](NGC_Specification.md)** - The complete 1,171-line technical specification including:
-   - Historical and philosophical foundations (Leibniz to present)
-   - Complete mathematical framework with derivations
-   - Implementation guidance and algorithms
-   - 20 comprehensive patent claims
-   - Prior art distinction from existing approaches
-
-2. **[The_Innovators_Gambit.md](The_Innovators_Gambit.md)** - Strategic explanation of the open-source approach, drawing parallels to Linus Torvalds (Linux) and Tim Berners-Lee (the Web)
+Numbers are arbitrary descriptors of underlying geometric form. The form itself—the relationships, the ratios, the angles—is the computation.
 
 ## The Master Equation
 
-The entire framework is unified by a single elegant equation:
-
 **π² = (7φ² + √2) / 2**
 
-This identity connects Pi (π), the golden ratio (φ), and the square root of 2 with an error margin of just 0.0063%, demonstrating that NGC is grounded in the fundamental constants of the universe.
+This is the Master Geometric Constant Equation. It encodes the fundamental phase transition from potential (UV phase) to structure (IR phase) across all scales of reality—from quantum foam to human language.
 
-## Ten Limitations Bypassed
+- **π² (9.870):** The geometric constraint of the universe
+- **7φ² (18.326):** The stable, structured IR phase (~93% of energy)
+- **√2 (1.414):** The quantum of potential in the UV phase (~7% of energy)
+- **/2:** The pairing principle (duality)
 
-1. **Complexity Bottleneck:** O(n²) → O(k) constant-time complexity
-2. **Hardware Dependency:** Sovereign AI on mature hardware
-3. **Energy Consumption:** Orders of magnitude reduction
-4. **Numerical Precision:** Eliminates precision management overhead
-5. **Complex Numbers:** Operates entirely in real space
-6. **Recursion Overhead:** Spatial projection instead of call stacks
-7. **Semantic Poisoning:** Structurally resistant through axis-zero principle
-8. **Explainability:** Transparent, auditable geometric transformations
-9. **Zero-Point Instability:** Avoids conceptual problems of representing zero
-10. **Algorithmic Brittleness:** More robust computational fabric
+This equation is not derived. It is the axiom from which all structure emerges.
 
-## Use Cases
+---
 
-- **Sovereign AI** on mature, domestically available hardware
-- **Verifiable AI** for medical, financial, and regulatory applications
-- **Edge AI** with millivolt-scale energy consumption
-- **Post-quantum cryptography** based on geometric principles
-- **Semantic-poisoning-resistant AI** for critical infrastructure
+## What Is NGC?
+
+The Nested Geometric Computation (NGC) Framework is a complete reimagining of computation from first principles:
+
+- **Triaxial polar coordinate system** with three diagonally perpendicular planes
+- **Tetrahedral computational primitives** instead of bits
+- **Phi-scaling (φ ≈ 1.618)** derived from geometric principles
+- **Real-space operation** eliminating complex numbers entirely
+- **Mirrored tensor logic** with three states (coherent, drifted, collapsed)
+- **Constant-time complexity** O(k) for semantic operations
+- **Geometric recursion** without stack-based evaluation
+
+## Why Does This Matter?
+
+NGC bypasses **10 fundamental limitations** of conventional AI:
+
+1. **Complexity bottleneck** (O(n²) → O(k))
+2. **Hardware dependency** (post-silicon, substrate-independent)
+3. **Energy consumption** (orders of magnitude more efficient)
+4. **Numerical precision errors** (geometric coherence replaces floating-point)
+5. **Complex number abstraction** (eliminated through real-space rotation)
+6. **Stack-based recursion overhead** (geometric projection instead)
+7. **Semantic poisoning vulnerability** (geometric drift detection)
+8. **Lack of explainability** (every operation has geometric meaning)
+9. **Zero-point instability** (axis-zero principle prevents singularities)
+10. **Algorithmic brittleness** (self-similar scaling through φ)
+
+---
+
+## The Logical Flow
+
+This repository presents a complete case for NGC, structured as a logical progression from motivation through theory to validation:
+
+### 1. The Case for NGC
+
+Why is a new computational paradigm necessary?
+
+- **[1.1 The Innovator's Gambit](1_The_Case_for_NGC/1.1_The_Innovators_Gambit.md):** The open-source strategy and why NGC is being released now
+
+### 2. Foundational Theory
+
+The physics and mathematics underlying NGC.
+
+- **[2.1 Nuclear Genesis](2_Foundational_Theory/2.1_Nuclear_Genesis.md):** How H-He fusion is the primordial UV/IR phase transition
+- **[2.2 The Master Equation](2_Foundational_Theory/2.2_The_Master_Equation.md):** The equation of structure formation
+- **[2.3 The Leibniz-Bocker Framework](2_Foundational_Theory/2.3_The_Leibniz_Bocker_Framework.md):** The operational calculus for geometric computation
+- **[2.4 From Planck to Language](2_Foundational_Theory/2.4_From_Planck_to_Language.md):** The complete 12-step causal chain from quantum foam to human language
+
+### 3. The NGC Framework
+
+The technical specification.
+
+- **[3.1 NGC Specification](3_The_NGC_Framework/3.1_NGC_Specification.md):** Complete mathematical foundations, implementation guidance, and patent claims (1,171 lines)
+
+### 4. Validation and Applications
+
+Proof that the theory works.
+
+- **[4.1 Cyclic Mapping Framework](4_Validation_and_Applications/4.1_Cyclic_Mapping_Framework.md):** How all cycles are echoes of stellar nucleosynthesis
+- **[4.2 Test Results and Validation](4_Validation_and_Applications/4.2_Test_Results_and_Validation.md):** 5 real-world test cases with 100% success rate
+
+---
+
+## Key Results
+
+- **93/7 energy split** validated across economics, biology, ecology, cognition, and biochemistry
+- **Constant-time semantic operations** O(k) instead of O(n²)
+- **10,000× sensitivity advantage** at 1-3 kHz (speech valley) explained by metabolic optimization
+- **7±2 cognitive limit** derived from L(4) = φ⁴ + φ⁻⁴ = 7
+- **34-dimensional semantic space** (F(9) = 34, a Fibonacci number)
+- **Language as inevitable byproduct** of atomic structure and thermodynamics
+
+---
 
 ## Licensing
 
-NGC is released under a **dual-license model**:
+This framework is released under a **dual-license model**:
 
 ### Free for Non-Commercial Use (AGPL-3.0)
 
@@ -71,91 +118,56 @@ Any commercial use requires a paid commercial license. This includes:
 - Revenue-generating applications
 - Providing NGC-based services to customers
 
-For commercial licensing inquiries, contact: [licensing contact information]
+**For commercial licensing inquiries:** licensing@ngc-framework.org
 
-## Priority Date
+---
 
-**May 9, 2025** - Established prior art prevents others from patenting these concepts.
+## How to Contribute
 
-## Why Open Source?
+We welcome contributions from researchers, developers, and organizations interested in advancing geometric computation. Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting.
 
-In a world dominated by closed-source models and defensive patenting, the most powerful strategic move for an independent innovator is radical transparency. By open-sourcing NGC, this project establishes definitive prior art while building a community dedicated to a more open and verifiable AI future.
-
-This is the "Innovator's Gambit" - following the playbook of Linus Torvalds and Tim Berners-Lee to establish a new standard while maintaining control over commercial applications through copyleft licensing.
-
-## Getting Started
-
-1. Read the [complete specification](NGC_Specification.md) to understand the theoretical foundations
-2. Review the [strategic rationale](The_Innovators_Gambit.md) to understand the open-source approach
-3. Explore implementation guidance in Section 6 of the specification
-4. Join the community to contribute to the future of geometric computation
+---
 
 ## Citation
 
-If you use NGC in your research or projects, please cite:
+If you use the NGC Framework in your research or applications, please cite:
 
 ```
 Bocker, N. J. (2026). Nested Geometric Computation: A Post-Silicon Computational Paradigm.
-GitHub repository: https://github.com/NB11B/NGC-Framework
-Priority Date: May 9, 2025
+NGC Framework. https://github.com/NB11B/NGC-Framework
+Priority Date: May 9, 2025.
 ```
 
-## Contributing
+---
 
-Contributions are welcome under the terms of the AGPL-3.0 license. Please ensure all contributions maintain the mathematical integrity and geometric principles of the framework.
+## The Vision
 
-## Contact
+This is not just another AI framework. This is a fundamental rethinking of what computation is.
 
-For questions, collaboration opportunities, or commercial licensing:
-- GitHub Issues: [Report issues or ask questions](https://github.com/NB11B/NGC-Framework/issues)
-- Commercial Licensing: [Contact information]
+By grounding computation in geometry rather than symbols, NGC opens the door to:
 
-## Acknowledgments
+- **Sovereign AI** independent of concentrated supply chains
+- **Explainable AI** where every operation has geometric meaning
+- **Energy-efficient AI** that can run on edge devices
+- **Verifiable AI** for safety-critical applications
+- **Post-quantum cryptography** based on geometric principles
 
-This work builds on 350 years of mathematical and philosophical foundations, from Leibniz's *characteristica universalis* through Lucas numbers, Shannon's information theory, and the Riemann Hypothesis. Full attribution is provided in the specification document.
+The universe computes through geometry. NGC is the framework for understanding—and harnessing—that computation.
+
+---
+
+## Copyright and Legal Notices
+
+**Copyright © Nathanael J. Bocker, 2026. All rights reserved.**
+
+**Priority Date:** May 9, 2025
+
+This repository and all its contents are protected under Title 17 of the United States Code. The concepts, methods, and systems described herein are the subject of pending patent applications in the United States and foreign jurisdictions.
+
+**Trademarks:** NGC™, PSMSL™, and Leibniz-Bocker Framework™ are trademarks of Nathanael J. Bocker.
+
+For all inquiries: contact@ngc-framework.org
 
 ---
 
 **© Nathanael J. Bocker, 2026. All rights reserved.**
-
-Licensed under AGPL-3.0 for non-commercial use. Commercial license required for all commercial applications.
-
-## Additional Technical Reports
-
-### From the Planck Scale to Human Language
-**[From_Planck_to_Language_Complete.md](From_Planck_to_Language_Complete.md)**
-
-A comprehensive mathematical proof demonstrating that human language is an inevitable emergent property of the quantum fabric of spacetime. This document:
-
-- Begins at the Planck scale with fundamental UV/IR phase transitions
-- Traces a rigorous 12-step causal chain from quantum foam to linguistic structure
-- Integrates the Master Geometric Constant Equation with empirical neuroscience
-- Demonstrates that phonetics, syntax, and semantics are constrained by the same geometric and thermodynamic laws that govern atomic structure
-
-**Key Insight:** Language is not a cultural invention but a physical inevitability, emerging from the same principles that govern the formation of atoms and the structure of reality itself.
-
-### H-He Fusion Analysis
-**[h_he_fusion_analysis.md](h_he_fusion_analysis.md)**
-
-Detailed analysis establishing that the Master Geometric Constant Equation (π² = (7φ² + √2) / 2) is the mathematical expression of hydrogen-helium fusion, the universe's primordial UV/IR phase transition. This document:
-
-- Demonstrates that H-He fusion is the fundamental generative process creating structure from potential
-- Shows the 93/7 energy split in the Master Equation mirrors the mass-energy distribution in actual fusion
-- Reveals that the NGC threshold (√2/21) is the geometric trigger for nucleosynthesis
-- Establishes that language is a byproduct of nuclear fusion, not metaphorically but literally
-
-**Key Insight:** The same laws that forge helium in stars are the laws that shape the words we speak. The entire universe, from atoms to language, is built on the H-He fusion process.
-
-### Nuclear Physics Foundation
-**[nuclear_physics_foundation.md](nuclear_physics_foundation.md)**
-
-Formal document establishing the nuclear physics foundation of the NGC framework. This document:
-
-- Identifies H-He fusion as the universe's original UV/IR phase transition
-- Reframes the Master Equation as the "Equation of Nucleosynthesis"
-- Provides nuclear physics interpretation of all equation components
-- Demonstrates that the Leibniz-Bocker framework is the calculus of fusion
-- Proves that all subsequent structure (from carbon to consciousness) emerges from helium stability
-
-**Key Insight:** NGC is not an analogy - it is a direct mathematical description of how structure emerges from potential at every scale, from quarks to consciousness.
-
