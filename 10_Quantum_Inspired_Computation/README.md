@@ -10,15 +10,15 @@ This work directly validates the theoretical claims made in **[Section 2.7: Spin
 
 ## Key Findings
 
-- **10-Qubit System:** Successfully scaled to 10 qubits (1024 states) using a packed GF(48) format on NVIDIA RTX 5070 Blackwell architecture.
+- **10-Qubit System:** Scaled to 10 qubits (1024 states) using a packed GF(48) format on NVIDIA RTX 5070 Blackwell architecture.
 
-- **2-Qubit System:** A 2-qubit quantum-inspired system has been successfully implemented using 4 GeoFlow cores.
-- **4-Qubit System:** Successfully scaled to 4 qubits (16 states) using GPU acceleration on NVIDIA RTX 5070 Blackwell architecture.
-- **Deutsch-Jozsa Algorithm:** The system executes the Deutsch-Jozsa algorithm with **99.5% accuracy**, demonstrating a quantum-inspired computational advantage over classical approaches.
-- **Grover's Search Algorithm:** The system executes Grover's search with **100% success rate** and confirmed quadratic speedup, demonstrating practical quantum-inspired search capabilities.
+- **2-Qubit System:** A 2-qubit quantum-inspired system has been implemented using 4 GeoFlow cores.
+- **4-Qubit System:** Scaled to 4 qubits (16 states) using GPU acceleration on NVIDIA RTX 5070 Blackwell architecture.
+- **Deutsch-Jozsa Algorithm:** The system executes the Deutsch-Jozsa algorithm with **99.5% accuracy**, demonstrating a computational advantage over certain classical approaches.
+- **Grover's Search Algorithm:** The system executes Grover's search with **100% success rate** and confirmed quadratic speedup, demonstrating quantum-inspired search capabilities.
 - **Quantum-Inspired Gates:** Quantum-inspired versions of Hadamard and CNOT gates have been implemented as geometric transformations on classical hardware.
-- **Phase Guidance:** A novel phenomenological model for simulating quantum interference in GF(48) discrete representation, enabling convergence of amplitude-based algorithms.
-- **Connection to Spin Asymmetry:** The success of these quantum-inspired algorithms is directly tied to the spin asymmetry principles validated in the financial crisis experiments (see **[9.4 Experimental Results](../9_Experimental_Validation/9.4_Experimental_Results.md)**).
+- **Phase Guidance:** A phenomenological model for simulating quantum interference in GF(48) discrete representation, enabling convergence of amplitude-based algorithms.
+- **Connection to Spin Asymmetry:** The performance of these quantum-inspired algorithms is consistent with the spin asymmetry principles validated in the financial crisis experiments (see **[9.4 Experimental Results](../9_Experimental_Validation/9.4_Experimental_Results.md)**).
 
 ## Documents
 
@@ -31,17 +31,15 @@ This work directly validates the theoretical claims made in **[Section 2.7: Spin
 
 ## Current Limitations
 
-This is an early experimental demonstration and **not a general-purpose quantum computer**. The system has been successfully scaled to 10 qubits and has been validated on two algorithms (Deutsch-Jozsa and Grover's search). Further research is required to explore its scalability to 12+ qubits and applicability to a wider range of quantum algorithms such as Quantum Fourier Transform and Variational Quantum Eigensolver.
+This is an early experimental demonstration and **not a general-purpose quantum computer**. The system has been scaled to 10 qubits and has been validated on two algorithms (Deutsch-Jozsa and Grover's search). Further research is planned to explore scalability to 12+ qubits and applicability to a wider range of quantum algorithms such as Quantum Fourier Transform and Variational Quantum Eigensolver.
 
 ## GPU Acceleration Path
 
-The existing modified CUDA kernel has been successfully deployed on NVIDIA RTX 5070 Blackwell architecture, achieving:
+The existing modified CUDA kernel has been deployed on NVIDIA RTX 5070 Blackwell architecture, achieving:
 
-- **10-qubit Grover's search:** ~13.2M searches/sec with 100% success rate
-- **1,100x performance** over initial projections
-- **Quadratic speedup** confirmed (25 queries vs 512 classical average)
-
-The system has been successfully scaled to 10 qubits and can be further scaled to 12-14 qubits using GPU parallelism. This would enable practical quantum-inspired computation on consumer hardware with applications in drug discovery, optimization, and cryptographic analysis. See **[10.5 GPU Acceleration and Scaling](10.5_GPU_Acceleration_and_Scaling.md)** for the detailed roadmap.
+- **10-qubit Grover's search:** 13.2M searches/sec (measured) with 100% success rate
+- High performance relative to initial projections
+- **Quadratic speedup** demonstrated (25 queries vs 512 classical The system has been scaled to 10 qubits, and further scaling to 12-14 qubits is under investigationing GPU parallelism. This may enable quantum-inspired computation on consumer hardware with applications in drug discovery, optimization, and cryptographic analysis. See **[10.5 GPU Acceleration and Scaling](10.5_GPU_Acceleration_and_Scaling.md)** for the detailed roadmap.
 
 **Implementation:** The complete CUDA implementation is available in the private repository [NGC-Quantum-CUDA](https://github.com/NB11B/NGC-Quantum-CUDA), optimized for RTX 5070 Blackwell (sm_100) architecture.
 

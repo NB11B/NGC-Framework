@@ -24,3 +24,8 @@ The following documents represent the canonical, peer-reviewed foundation of the
 ## Research Papers
 
 For more exploratory work, working papers, and detailed analyses, please see the **[./research](./research)** subdirectory.
+
+
+---
+
+**© Nathanael J. Bocker, 2026. All rights reserved.**
