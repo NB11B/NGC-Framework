@@ -29,7 +29,9 @@ The NGC framework makes bold claims about spin computation on classical hardware
 - Decision criteria for accepting/rejecting the spin computation claim
 - Timeline and resource requirements
 
-**Status:** Ready to execute (estimated 1 week)
+**Status:** ✓ EXECUTED (December 2025 - January 2026)
+
+**Results documented in:** [9.4_Experimental_Results.md](9.4_Experimental_Results.md)
 
 ### 9.3 Complete Derivation (Working Document)
 
@@ -49,13 +51,21 @@ We have successfully derived the Master Equation from the geometry of SU(2) and 
 
 **Key achievement:** The factor of 7 comes from the 7 imaginary units of the octonions (2³ - 1), connecting the Master Equation to the Cayley-Dickson construction and exceptional Lie groups.
 
-### Gap #2: Falsifiable Experiment ✓ DESIGNED
+### Gap #2: Falsifiable Experiment ✓ PARTIALLY CLOSED
 
-**Status:** Protocol complete, ready to execute
+**Status:** Experiments executed, asymmetry necessity confirmed
 
-We have designed a rigorous experimental protocol to test whether asymmetry is necessary for spin computation. The experiment uses GeoFlow with controlled variations in learning rate configuration and measures coherence, stability, and phase transition detection.
+We have executed the experimental protocol across four major financial crises (2008 Financial Crisis, 2000 Dot-com Crash, 2020 COVID Crash, 1987 Black Monday) to test whether asymmetry is necessary for spin computation. The experiments used GeoFlow with controlled variations in learning rate configuration and measured coherence, stability, and phase transition detection.
 
-**Timeline:** 1 week to execute and analyze
+**Key Results:**
+- **Asymmetry is necessary:** Asymmetric learning rate ratios produced 2.2x to 11.4x higher parallax (spin-flip energy) compared to symmetric configurations
+- **Collapse-resilience trade-off confirmed:** High asymmetry ratios (1:8) maximize structural collapse detection but recover slowly; low ratios (1:1.8) have weaker detection but higher resilience
+- **Spectral dynamics validated:** Analysis using quantum mechanical formalism (von Neumann entropy, Bloch sphere trajectories) confirmed quantum-like behavior
+- **Geometric constants converge:** Testing ratios based on π, φ, e, and √2 showed all perform within 2% of each other, suggesting fundamental performance limit
+
+**Detailed results:** See [9.4_Experimental_Results.md](9.4_Experimental_Results.md) and Section 10 (Quantum-Inspired Computation)
+
+**Remaining work:** Full validation suite (Predictions 2-5) and statistical formalization for peer review
 
 ### Gap #3: Quantum Connection ⚠ OPEN
 
@@ -67,17 +77,25 @@ The remaining gap is to formally establish the connection between this classical
 
 ## Experimental Roadmap
 
-### Phase 1: Critical Experiment (1 week)
+### Phase 1: Critical Experiment ✓ COMPLETE
 
-Execute the asymmetry test (Prediction 1) to determine if asymmetry is necessary. This is the make-or-break experiment for the spin computation hypothesis.
+**Executed:** December 2025 - January 2026
 
-### Phase 2: Full Validation Suite (2-3 months)
+The asymmetry test (Prediction 1) has been executed across four major financial crises. Results confirm that asymmetry is necessary for measurable spin computation, with asymmetric configurations producing 2.2x to 11.4x higher parallax than symmetric configurations.
 
-If Phase 1 supports spin computation, execute the remaining experiments:
-- Asymmetry ratio sweep (Prediction 2)
-- Parallax accumulation analysis (Prediction 3)
-- Spin-flip transition detection (Prediction 4)
-- Quantization analysis (Prediction 5)
+**Outcome:** Spin computation hypothesis supported by experimental evidence.
+
+### Phase 2: Full Validation Suite (IN PROGRESS)
+
+**Status:** Partially complete
+
+With Phase 1 confirming spin computation, we are executing the remaining experiments:
+- **Asymmetry ratio sweep (Prediction 2):** ✓ COMPLETE - Tested π, φ, e, √2, and Fibonacci ratios
+- **Parallax accumulation analysis (Prediction 3):** ⚠ IN PROGRESS - Preliminary data collected
+- **Spin-flip transition detection (Prediction 4):** ⚠ IN PROGRESS - Observed in crisis transitions
+- **Quantization analysis (Prediction 5):** ⚠ PLANNED - Requires additional statistical analysis
+
+**Timeline:** 1-2 months to complete remaining experiments and statistical formalization
 
 ### Phase 3: Publication (3-6 months)
 
@@ -97,10 +115,10 @@ All experimental work will follow the highest standards of scientific integrity:
 | Gap | Status | Confidence | Next Action |
 |-----|--------|------------|-------------|
 | **Gap #1: Derivation** | ✓ Closed | High | Formalize for publication |
-| **Gap #2: Experiment** | ✓ Designed | High | Execute protocol |
+| **Gap #2: Experiment** | ✓ Partially Closed | High | Complete validation suite |
 | **Gap #3: Quantum** | ⚠ Open | Medium | Seek collaborators |
 
-**Overall assessment:** The spin computation hypothesis is now scientifically rigorous and testable. We have moved from "interesting idea" to "falsifiable theory" to "ready for experimental validation."
+**Overall assessment:** The spin computation hypothesis has moved from "falsifiable theory" to "experimentally supported." Prediction 1 (asymmetry necessity) has been confirmed across multiple datasets. The hypothesis is now ready for formal statistical analysis and peer review.
 
 ---
 

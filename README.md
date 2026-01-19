@@ -148,36 +148,29 @@ The experimental protocols and analysis documents for validating the spin comput
 
 **Status:** Gap #1 (First-Principles Derivation) closed, Gap #2 (Falsifiable Experiment) designed and ready to execute, Gap #3 (Quantum Connection) theoretically addressed.
 
-### 10. Quantum Computing Implementation
+### 10. Quantum-Inspired Computation
 
-Experimental validation that the NGC Framework performs quantum-like computation through geometric flow on graphs. The GeoFlow production kernel demonstrates that dual-core asymmetric architectures create spin-like dynamics enabling quantum gate operations on classical hardware:
+[Go to Section 10 Documentation](./10_Quantum_Inspired_Computation/README.md)
+
+Experimental demonstration that the NGC Framework can perform quantum-inspired computation through geometric flow on graphs. The GeoFlow kernel shows that dual-core asymmetric architectures create spin-like dynamics, enabling the implementation of quantum-inspired gate operations on classical hardware:
 
 **Repository:** [GeoFlow Kernel](https://github.com/NB11B/GeoFlow) (Branch: `feature/eigenvector-quantum-gates`)
 
 **Documentation:**
-- **[Quantum Computing via Geometric Spin](https://github.com/NB11B/GeoFlow/blob/feature/eigenvector-quantum-gates/docs/quantum_computing_via_geometric_spin.md)** - Proof of quantum-like behavior through geometric computation
-- **[Mathematical Foundations](https://github.com/NB11B/GeoFlow/blob/feature/eigenvector-quantum-gates/docs/mathematical_foundations.md)** - Rigorous mathematical framework and proofs
-- **[Tutorial: Running Quantum Algorithms](https://github.com/NB11B/GeoFlow/blob/feature/eigenvector-quantum-gates/docs/tutorial_quantum_algorithms.md)** - Practical implementation guide
-- **[API Reference: Quantum Operations](https://github.com/NB11B/GeoFlow/blob/feature/eigenvector-quantum-gates/docs/api_reference_quantum.md)** - Complete API documentation
+- 
 
-**Key Results:**
-- Successful implementation of 2-qubit system (4 cores)
-- Deutsch-Jozsa algorithm with 99.5% accuracy
-- Demonstrated quantum gates (Hadamard, CNOT) on classical hardware
-- Proven quantum-like advantage over classical approaches
 
-This validates Section 2.7 (Spin Computation on Classical Hardware) and demonstrates that geometric flow on graphs provides a substrate for quantum-like computation without requiring quantum hardware.
 
-**Spin Computing Experimental Results:**
 
-Extensive testing across four major financial crises (2008 Financial Crisis, 2000 Dot-com Crash, 2020 COVID Crash, 1987 Black Monday) validated key predictions of the spin computation theory:
 
-- **Asymmetry is Necessary:** Asymmetric learning rate ratios (F+/F-) produced 2.2x to 11.4x higher parallax (spin-flip energy) compared to symmetric configurations, confirming that asymmetry is required for measurable spin computation
-- **Collapse-Resilience Trade-Off:** High asymmetry ratios (1:8) maximize structural collapse detection but recover slowly. Low ratios (1:1.8) have weaker detection but higher resilience. This trade-off is fundamental to spin computation
-- **Spectral Dynamics:** Analysis using quantum mechanical formalism (von Neumann entropy, Bloch sphere trajectories) confirmed that the system exhibits genuine quantum-like behavior, with different asymmetry ratios operating at different points in the quantum-classical spectrum
-- **Geometric Constants:** Testing ratios based on π, φ, e, and √2 showed that all perform within 2% of each other, suggesting the system has reached a fundamental performance limit independent of the specific ratio chosen
 
-**Repository:** [GeoFlow Experiments](https://github.com/NB11B/GeoFlow) (Branch: `experiment/spin-asymmetry-test`)
+
+
+
+
+
+
+
 
 ---
 
